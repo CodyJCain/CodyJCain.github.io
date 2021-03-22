@@ -12,12 +12,12 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/RightTriangle2.JPG)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Final Processor | CSCI 330](project1)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Blackjack Playing Program | CSCI 325](project1)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
