@@ -7,9 +7,9 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Right Triangle Maker | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/RightTriangle2.jpg)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [The Ethics of Hacking](/pdf/Ethics_Paper_Procedural_Programming.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:** Procedural Programming
+-   **Grade:** A
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Meme Ethics](/pdf/Ethics_Paper_Architecture.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Computer Architecture
+-   **Grade:** Unknown
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethics of Copyright and Code](/pdf/Ethics_Paper_Scripting.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Survey of Scripting Languages
+-   **Grade:** A
 
 ---
 
