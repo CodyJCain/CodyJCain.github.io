@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Right Triangle Maker | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/RightTriangle2.jpg)
+![Project 1 Thumbnail Name](images/RightTriangle2.JPG)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
