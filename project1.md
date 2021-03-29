@@ -11,9 +11,9 @@ Project 1 Title
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+When the program first runs, it outputs a set of test values which are used to demonstrate that the functions are all working properly (see Fig 1). After this the user is prompted to input values for side A and B which are the two sides that connect at a right angle. The program then uses these values to compute the value side C which is the hypotenuse and the surface area of the triangle (see Fig 2).
 
-## How to compiles / run the program
+## How to compile / run the program
 
 How to compile (if applicable) and run the project.
 
@@ -27,18 +27,13 @@ python setup.py
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
 ![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
+Fig 1. Test values
 
 ![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
+Fig 2. User input and program output
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+## 3. Additional Considerations 
 
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For source code see [Right Triangle Code](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
