@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Right Triangle Maker
 ===============
 
 -   **Class:** CSCI 301: Survey of Scripting Languages
