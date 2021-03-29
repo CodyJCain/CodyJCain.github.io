@@ -3,7 +3,7 @@
 Project 1 Title
 ===============
 
--   **Class:** CSCI 301 Survey of Scripting Languages
+-   **Class:** CSCI 301: Survey of Scripting Languages
 -   **Grade:** 100
 -   **Language(s):** Python
 -   **Source Code Repository:** [Right Triangle Code](https://guides.github.com/features/mastering-markdown/)  
@@ -11,7 +11,7 @@ Project 1 Title
 
 ## Project description
 
-When the program first runs, it outputs a set of test values which are used to demonstrate that the functions are all working properly (see Fig 1). After this the user is prompted to input values for side A and B which are the two sides that connect at a right angle. The program then uses these values to compute the value side C which is the hypotenuse and the surface area of the triangle (see Fig 2).
+This project is a program which can create a right triangle based on the dimensions of two sides.
 
 ## How to compile / run the program
 
