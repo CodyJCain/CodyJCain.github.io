@@ -25,10 +25,10 @@ python RightTriangle.py
 
 When the program first runs, it outputs a set of test values which are used to demonstrate that the functions are all working properly (see Fig 1). After this the user is prompted to input values for side A and B which are the two sides that connect at a right angle. The program then uses these values to compute the value side C which is the hypotenuse and the surface area of the triangle (see Fig 2).
 
-![screenshot](images/dummy_thumbnail.jpg)
+![screenshot](images/RightTriangle1.JPG)
 Fig 1. Test values
 
-![screenshot](images/dummy_thumbnail.jpg)
+![screenshot](images/RightTriangle2.JPG)
 Fig 2. User input and program output 
 
 [Back to Portfolio](./)
