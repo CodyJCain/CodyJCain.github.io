@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Cypher Encoder/Decoder | CSCI 452](project1)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/CypherThumbnail.png)
 
 ---
 
