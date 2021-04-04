@@ -3,42 +3,44 @@
 Project 1 Title
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
+-   **Class:** CSCI 452: Network Penetration
+-   **Grade:** 110
+-   **Language(s):** C++
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:cjcain1@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project is a set of five programs which facilitate the encryption and decryption of a Caesar Cypher and a Columnar Transposition cypher. They allow the user to input a message and outputs either an encoded cypher or a plaintext depending on the program used.
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
-
+To compile the program I used gpp on Linux. To run the program run the compiled executables.
 ```bash
 cd ./project
-python setup.py
+gpp -o name.out program_name.cpp
 ```
 
-## UI Design
+## Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+Part 1 of this project is to encrypt and decrypt a Caesar Cypher which is a form of substitution cypher where one letter is replaced with another. This program uses a shift-substitution cypher where each letter is replaced by the letter five to the right. In Part1Encrypt the user inputs a message and the program outputs the encrypted cypher text (see Fig 1). In Part1Decrypt the opposite occurs and the user inputs the cypher and the program outputs the plain text (see Fig 2). Part 2 is a set of two programs for encrypting and decrypting a columnar transposition cypher. This cypher is where a message is written out in rows of a certain number of letters and then read out vertically through the columns. This program uses a character per row count of 6. Part2Encrypt allows a user to input a message and thew program outputs the cypher (see Fig 3). Part2Decrypt has a user input the encrypted message and outputs the plaintext (see Fig 4). Part 3 puts the other two parts together into a single program. It has two modes. The first mode is the encryption mode. In this mode the user is first asked to input their message they wish to encrypt. Next the user enters a number for the type of encryption they want to use for up to three iterations. After the encryption is finished the program outputs the cypher (see Fig 5). The second mode is the decrypt mode. Because there are a very limited number of possible encryption possibilities the program simply brute forces all of them. The user inputs the cypher and the program outputs all of the possible encryption methods (see Fig 6). It is then up to the user to determine which output is English.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
+![screenshot](images/Cypher1.jpg)
+Fig 1. Part 1 Encrypt
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
+![screenshot](images/Cypher2.jpg)
+Fig 2. Part 1 Decrypt
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Cypher3.jpg)
+Fig 3. Part 2 Encrypt
 
-## 3. Additional Considerations
+![screenshot](images/Cypher4.jpg)
+Fig 4. Part 2 Decrypt
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+![screenshot](images/Cypher5.jpg)
+Fig 5. Part 3 Encrypt Mode
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![screenshot](images/Cypher6.jpg)
+Fig 6. Part 3 Decrypt Mode
 
 [Back to Portfolio](./)
