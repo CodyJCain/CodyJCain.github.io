@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/RightTriangle2.JPG)
 
 ---
-### [Final Processor | CSCI 330](project1)
+### [Final Processor | CSCI 330](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Blackjack Playing Program | CSCI 325](project1)
+### [Blackjack Playing Program | CSCI 325](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Cypher Encoder/Decoder | CSCI 452](project1)
+### [Cypher Encoder/Decoder | CSCI 452](project4)
 
 ![Project 4 Thumbnail Name](images/CypherThumbnail.png)
 
