@@ -6,7 +6,7 @@ Final Processor
 -   **Class:** CSCI 330 Computer Architecture
 -   **Grade:** 100
 -   **Language(s):** Verilog
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [CodyJCain/Processor](https://github.com/CodyJCain/Processor)  
     (Please [email me](mailto:cjcain1@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
