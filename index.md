@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Final Processor | CSCI 330](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/CPU1.png)
 
 ---
 ### [Blackjack Playing Program | CSCI 325](project3)
