@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Control ROM Presentation](/pdf/Control ROM.pdf)
+### [Control ROM Presentation](/pdf/Control_ROM.pdf)
 
 - **Class:** CSCI 330 Computer Architecture
 - **Grade:** A
 
 
-### [Presentation 2 Title](/pdf/The Target Hack.pdf)
+### [Presentation 2 Title](/pdf/The_Target_Hack.pdf)
 
 - **Class:** CSCI 301 Survey of Scripting Languages
 - **Grade:** A
