@@ -57,7 +57,7 @@ Presentations
 - **Grade:** A
 
 
-### [Presentation 2 Title](/pdf/The_Target_Hack.pdf)
+### [The Target Hack](/pdf/The_Target_Hack.pdf)
 
 - **Class:** CSCI 301 Survey of Scripting Languages
 - **Grade:** A
