@@ -6,7 +6,7 @@ Right Triangle Maker
 -   **Class:** CSCI 301: Survey of Scripting Languages
 -   **Grade:** 100
 -   **Language(s):** Python
--   **Source Code Repository:** [Right Triangle Code](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [CodyJCain/RightTriangle](https://github.com/CodyJCain/Right-Triangle)  
     (Please [email me](mailto:cjcain1@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
