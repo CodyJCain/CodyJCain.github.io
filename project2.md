@@ -1,44 +1,34 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Final Processor
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
+-   **Class:** CSCI 330 Computer Architecture
+-   **Grade:** 100
+-   **Language(s):** Verilog
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:cjcain1@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is a virtual 64 bit single cycle processor written in Verilog. The processor is built out of many small components which are all compiled together into a single file. The processor runs on a version of assembly which can be written and assembled using the included assembler.
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
+To compile the program navigate to the folder containing the .v files and run the command 
 
 ```bash
-cd ./project
-python setup.py
+iverilog *.v && ./a.out
 ```
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+When the program runs it automatically reads the assembly file which is included in the directory. The processor outputs the current instruction in hexadecimal as well as the binary values contained in each individual component as each instruction runs (see Fig 1). It also outputs the values of each register in memory to see how they change over the course of the program’s runtime (see Fig 2). This process repeats until there are no more instructions at which point the program ends.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
+![screenshot](images/CPU1.png)
+Fig 1. Output of components
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![screenshot](images/CPU2.png)
+Fig 2. Output of memory registers
 
 [Back to Portfolio](./)
