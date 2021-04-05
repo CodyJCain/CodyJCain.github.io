@@ -33,17 +33,17 @@ Ethics Papers
 
 ### [The Ethics of Hacking](/pdf/Ethics_Paper_Procedural_Programming.pdf)
 
--   **Class:** Procedural Programming
+-   **Class:** CSCI 235 Procedural Programming
 -   **Grade:** A
 
 ### [Meme Ethics](/pdf/Ethics_Paper_Architecture.pdf)
 
--   **Class:** Computer Architecture
+-   **Class:** CSCI 330 Computer Architecture
 -   **Grade:** Unknown
 
 ### [Ethics of Copyright and Code](/pdf/Ethics_Paper_Scripting.pdf)
 
--   **Class:** Survey of Scripting Languages
+-   **Class:** CSCI 301 Survey of Scripting Languages
 -   **Grade:** A
 
 ---
@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Control ROM Presentation](/pdf/Control ROM.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 330 Computer Architecture
+- **Grade:** A
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Title](/pdf/The Target Hack.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 301 Survey of Scripting Languages
+- **Grade:** A
 
 ---
 
