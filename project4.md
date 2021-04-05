@@ -6,7 +6,7 @@ Cypher Encoder/Decoder
 -   **Class:** CSCI 452: Network Penetration
 -   **Grade:** 110
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [CodyJCain/Cypher-Encoder/Decoder](https://github.com/CodyJCain/Cypher-Encoder-Decoder)  
     (Please [email me](mailto:cjcain1@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
