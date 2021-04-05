@@ -39,7 +39,7 @@ Ethics Papers
 ### [Meme Ethics](/pdf/Ethics_Paper_Architecture.pdf)
 
 -   **Class:** CSCI 330 Computer Architecture
--   **Grade:** Unknown
+-   **Grade:** C
 
 ### [Ethics of Copyright and Code](/pdf/Ethics_Paper_Scripting.pdf)
 
