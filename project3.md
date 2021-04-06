@@ -25,18 +25,39 @@ cd ./project
 python setup.py
 ```
 
-## UI Design
+## Design
 
 When the program first runs the user is greeted by a welcome message and is asked if they wish to play with custom rules (see Fig 1). Beyond the simple rules of how to play, there are many rules which are left up to the house such as how many decks to use and how often to shuffle. This allows the user to change the program to mirror the exact table they wish to simulate. If the user chooses to input custom rules, they are asked to input the rules they wish to use (see Fig 2). If not, the program uses the default rules which are the most commonly used house rules and skips to the next step. The user is asked if they wish to simulate multiple hands or play them manually. If the user selects 2 for simulate, they are asked how many rounds (see Fig 3). Once the user enters the number of rounds the program begins simulating. For each hand the program outputs the result as either won or lost. If the player was dealt 21 on the first hand it is considered a Blackjack and this is marked accordingly (see Fig 4). At the end of the simulation the program displays the full results (see Fig 5). The number of hands won, lost, or pushed are roughly the same as real world expectations proving the accuracy of the simulation. The increase in money however is nearly 200%. This is due to counting cards and adjusting the amount of money bet each hand to account for the probability of that hand being a win. The user is then prompted if they wish to continue the simulation. If they choose yes, the simulation runs the same number of hands as before but continues the count and money from the previous iteration. Otherwise, the program ends. The second mode of operation is manual mode. This is accessed by selecting 1 for Dealer at the beginning of the program’s runtime. In this mode the program plays against the user instead of the virtual dealer. The user deals cards to themselves and to the virtual player. The user is then asked to input the value of the cards into the program. After this the user inputs the dealers face up card (see Fig 6). Once the values are entered the program makes a decision and the user deals cards accordingly and inputs their value (see Fig 7). This continues until the player busts or decides to stand. Once the players turn is complete play moves to the dealer. The user is instructed to flip over the dealers face down card and input its value (see Fig 8). If the dealer has less than 17 they must hit and the user is instructed to enter a new card (see Fig 9). This continues until the dealer busts or has more than 17. Once the round is over the results are displayed to the screen (see Fig 10). The user is asked to play again. If they enter yes the loop repeats, otherwise the program ends.
 
-![screenshot](images/dummy_thumbnail.jpg)
+![screenshot](images/Java1.PNG)
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
+![screenshot](images/Java2.PNG)
+Fig 2. Custom rules entry
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Java3.PNG)
+Fig 3. Play mode selection
+
+![screenshot](images/Java4.PNG)
+Fig 4. Per hand results output
+
+![screenshot](images/Java5.PNG)
+Fig 5. Simulation results
+
+![screenshot](images/Java6.PNG)
+Fig 6. Manual deal entry
+
+![screenshot](images/Java7.PNG)
+Fig 7. Players response
+
+![screenshot](images/Java8.PNG)
+Fig 8. Manual dealers turn
+
+![screenshot](images/Java9.PNG)
+Fig 9. Dealers instruction
+
+![screenshot](images/Java10.PNG)
+Fig 10. Manual mode results
 
 ## Additional Considerations
 
