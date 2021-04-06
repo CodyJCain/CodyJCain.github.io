@@ -7,7 +7,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   In partial fulfillment of the requirements for the degree of
   Bachelor of Science in Cybersecurity (class of 2022)
   <br /><br />
-  <a href="https://s3.amazonaws.com/handshake.production/documents/documents/023/679/658/original/Cody_Cain_Resume_Feb_2021.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAILGI2B7PIOQKG5EA%2F20210406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210406T004745Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=07ee3edccb10fb595a23885d91310357eef494765c9b20a0ff96cd769ce35183">View My Resume</a>
+  <a href="pdf/Cody Cain Resume Feb 2021">View My Resume</a>
   <br /><br />
 repository: "CodyJCain/CodyJCain.github.io"
 github_username:  CodyJCain # update with your username
