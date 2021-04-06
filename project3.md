@@ -6,7 +6,7 @@ Blackjack Playing Program
 -   **Class:** CSCI 325 Object-Oriented Programming
 -   **Grade:** 95
 -   **Language(s):** Java
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [CodyJCain/Blackjack](https://github.com/CodyJCain/Blackjack)  
     (Please [email me](mailto:cjcain1@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
