@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Blackjack Playing Program | CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/Java5.PNG)
 
 ---
 ### [Cypher Encoder/Decoder | CSCI 452](project4)
