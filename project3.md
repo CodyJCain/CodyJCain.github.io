@@ -18,12 +18,7 @@ This was a group project by Myself, Justin Kizer, Lucas Neidlinger, and Steven C
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
-```
+To run the program run the class files in the JVM. I use Apache NetBeans IDE to compile and run.
 
 ## Design
 
